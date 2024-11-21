@@ -1,0 +1,9 @@
+Byte Object
+- Common behind the scences
+- Used as data that gets passed in a program
+- Rarely manipulated or modifed 
+
+Byte Object Common Uses
+- Streaming files
+- Transmitting text without knowing the encoding
+- Often used "under the hood" in Python libraries
